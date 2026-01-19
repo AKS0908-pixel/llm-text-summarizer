@@ -20,3 +20,8 @@ This project demonstrates **practical AI, NLP, and data handling skills**, perfe
 ```bash
 git clone https://github.com/YOUR_USERNAME/llm-text-summarizer.git
 cd llm-text-summarizer
+
+
+**Screenshot**
+
+<img width="1919" height="605" alt="image" src="https://github.com/user-attachments/assets/01ce27d4-65ad-4adf-beb7-f4a365881e49" />
