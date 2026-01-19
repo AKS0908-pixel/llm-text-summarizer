@@ -21,7 +21,11 @@ This project demonstrates **practical AI, NLP, and data handling skills**, perfe
 git clone https://github.com/YOUR_USERNAME/llm-text-summarizer.git
 cd llm-text-summarizer
 
+Screenshot
 
-**Screenshot**
+<img width="1802" height="538" alt="Screenshot 2026-01-18 213221" src="https://github.com/user-attachments/assets/19eb519c-fd87-4d32-a8c0-e54f2e8b35a6" />
 
-<img width="1919" height="605" alt="image" src="https://github.com/user-attachments/assets/01ce27d4-65ad-4adf-beb7-f4a365881e49" />
+
+
+
+
