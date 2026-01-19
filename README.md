@@ -9,7 +9,6 @@ This project demonstrates **practical AI, NLP, and data handling skills**, perfe
 - Saves input + summary to CSV (`summaries.csv`) for record keeping
 - Runs on **CPU** (no GPU needed)
 - CLI (Command-line interface) for quick usage
-- Optional interactive web UI using **Gradio**
 - Beginner-friendly, end-to-end AI pipeline
 
 ---
